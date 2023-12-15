@@ -7,7 +7,7 @@ public class SomeClass {
         return num * 4;
     }
 
-    public static int multiplyBy6(int num){
-        return num * 6;
+    public static int multiplyBy7(int num){
+        return num * 7;
     }
 }
